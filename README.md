@@ -9,7 +9,7 @@ Así es como funcionará la aplicación:
 2. Analiza los datos en unas variables dinamicas como los son los array ,en objetos de la base .
 3. Mostrara el reccorido  en el mapa con anotación de la respectiva ruta.
 4. Obtener la ubicación punto por punto del trayecto.
-5. En la rama master se encuentra el codigo del programa y en la rama project-files esta todos archivos del proyecto como lo es
+5. En la rama master se encuentra el codigo del programa y en la rama project-files esta todos archivos del proyecto como lo es PruebaDomicilios.xcodeproj.
 
 
 
