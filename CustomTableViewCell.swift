@@ -2,8 +2,8 @@
 //  CustomTableViewCell.swift
 //  customTableViewCell
 //
-//  Created by Yash Patel on 01/11/17.
-//  Copyright © 2017 Yash Patel. All rights reserved.
+//  Created by sebastian nieto.
+//  Copyright © 2017 sebastian nieto. All rights reserved.
 //
 
 
