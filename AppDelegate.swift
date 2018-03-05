@@ -6,6 +6,13 @@
 //  Copyright © 2017 sebastian nieto. All rights reserved.
 //
 
+/*El AppDelegate.swift podríamos decir
+* que es como el punto inicial desde donde parte nuestra aplicación 
+*  en ella se recogen una serie de eventos referentes a la aplicación como por ejemplo, el evento que se ejecuta 
+*  cuando se ha terminado de cargar todas las opciones de la aplicación (en este tutorial no vamos a usar esta clase).
+*
+*/
+
 import UIKit
 
 @UIApplicationMain
