@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  customTableViewCell
 //
-//  Created by Sebastia nieto on 04/03/18.
+//  Created by sebastian nieto on 04/03/18.
 //
 /*
 *En esta clase se llenara el tablelistview
